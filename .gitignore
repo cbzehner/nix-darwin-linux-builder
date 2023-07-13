@@ -1,0 +1,6 @@
+# direnv local configuration
+.direnv
+
+# Linux builder nix-darwin virtual machine
+keys/
+nixos.qcow2
